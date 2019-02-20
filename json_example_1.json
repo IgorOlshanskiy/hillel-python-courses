@@ -1,0 +1,14 @@
+{
+  "connection1": {
+    "DSN": "con1",
+    "UID": "abc",
+    "PWD": "1234",
+    "connection_string_python":"test1"
+  }
+  ,
+  "connection2": {
+    "DSN": "con2",
+    "UID": "def",
+    "PWD": "1234"
+  }
+}
